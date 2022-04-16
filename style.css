@@ -64,19 +64,19 @@ body {
     0%
     {
         transform: scale(0,0);
-        opacity: 2;
+        opacity: 100%;
     }
     33% {
         
-        opacity: 1.5;
+        opacity: 66%;
     }
     66% {
         
-        opacity: 1;
+        opacity: 33%;
     }
     100%
     {
         transform: scale(34,34);
-        opacity: 0.5;
+        opacity: 10%;
     }
 }
